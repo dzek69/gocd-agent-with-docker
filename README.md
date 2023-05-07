@@ -1,4 +1,8 @@
-# jenkins-with-docker
+# Deprecated
+
+Not maintained, probably unsafe, use something else.
+
+# goc-with-docker
 
 Dockerfile from gocd-agent-alpine-3.9 official image with docker and docker-compose added.
 
